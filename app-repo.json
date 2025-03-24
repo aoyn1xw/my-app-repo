@@ -1,0 +1,40 @@
+{
+  "name": "repository name",
+  "identifier": "unique repository identifier",
+  "iconURL": "repository icon url",
+  "website": "url",
+  "subtitle": "subtitle of your repository",
+  "description": "description of your repository ",
+  "tintColor": "color of your repository in ipa signers",
+  "featuredApps": [
+    "bundle identifiers you want to feature"
+  ],
+  
+  "apps": [
+    {
+      "beta": true,
+      "name" : "app Name",
+      "bundleIdentifier": "unique app identifier",
+      "developerName" : "app developer/creator",
+      "subtitle": "subtitle",
+      "description": "full description",
+      "localizedDescription": "duplicate of description",
+      "iconURL": "app icon url",
+      "tintColor": "tint color of app",
+      "version": "app version",
+      "versionDate" : "date app added to repository",
+      "downloadURL": "download url for app",
+      "size": "app size",
+      "title": "app name",
+      "url": "app developer url",
+      "versions" : [
+        {
+          "version": "app version",
+          "date" : "date app was added",
+          "downloadURL": "download app",
+          "size": app size as number
+        }
+      ]
+    },
+  ],
+}
