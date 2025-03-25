@@ -21,5 +21,3 @@ Want to improve the repo? Feel free to contribute!
 2. Make your changes  
 3. Submit a pull request  
 
-## License
-This project is licensed under the MIT License.
