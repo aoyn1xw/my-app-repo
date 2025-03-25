@@ -1,0 +1,60 @@
+{
+  "name": "Erdi's repository",
+  "identifier": "com.erdi.awesome-repo",
+  "iconURL": "https://github.com/aoyn1xw/my-app-repo/blob/main/2024-10-02%2017.37.38.jpg?raw=true",
+  "website": "https://github.com/aoyn1xw/my-app-repo",
+  "subtitle": "my first repo i made",
+  "description": "Ipa for daily use like Spotify, YouTube, etc...",
+  "tintColor": "#2596be",
+  "featuredApps": [
+    "com.eevee.spotify",
+    "com.google.ios.youtube"
+  ],
+  "apps": [
+    {
+      "name": "Eevee Spotify",
+      "bundleIdentifier": "com.eevee.spotify",
+      "developerName": "Eevee Dev",
+      "subtitle": "Modded Spotify",
+      "description": "EeveeSpotify :D",
+      "localizedDescription": "EeveeSpotify :D",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyjrTxktSFZ_A8bQebRMtjsHaUJXz4h-Vxg&s",
+      "tintColor": "#2596be",
+      "version": "5.9-9.0.28",
+      "versionDate": "2025-03-24",
+      "downloadURL": "https://www.mediafire.com/file/9i0wf545qm38yi8/EeveeSpotify-5.9-9.0.28.ipa/file",
+      "size": "80.6 MiB",
+      "title": "EeveeSpotify",
+      "url": "https://github.com/whoeevee/EeveeSpotify",
+      "versions": [
+        {
+          "version": "5.9-9.0.28",
+          "date": "2025-03-24",
+          "downloadURL": "https://www.mediafire.com/file/9i0wf545qm38yi8/EeveeSpotify-5.9-9.0.28.ipa/file",
+          "size": "80.6 MiB"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Google",
+      "subtitle": "YouTube Reborn",
+      "description": "YouTube injected with Reborn tweak",
+      "tintColor": "#2596be",
+      "version": "16.19.6",
+      "versionDate": "2025-03-25",
+      "downloadURL": "https://files.catbox.moe/67jxch.ipa",
+      "size": "73.01 MB",
+      "title": "YouTube",
+      "versions": [
+        {
+          "version": "16.19.6",
+          "date": "2025-03-25",
+          "downloadURL": "https://files.catbox.moe/67jxch.ipa",
+          "size": "73.01 MB"
+        }
+      ]
+    }
+  ]
+}
