@@ -14,9 +14,9 @@
     {
       "name": "Eevee Spotify",
       "bundleIdentifier": "com.eevee.spotify",
-      "developerName": "Eevee Dev",
+      "developerName": "Spotify",
       "subtitle": "Modded Spotify",
-      "description": "EeveeSpotify :D",
+      "description": "A modified version of spotify",
       "localizedDescription": "EeveeSpotify :D",
       "iconURL": "https://developer.spotify.com/images/guidelines/design/icon3.svg",
       "tintColor": "#2596be",
