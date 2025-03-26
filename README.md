@@ -5,7 +5,7 @@ Welcome to My iOS App Repo! This repository provides a collection of iOS apps th
 ## How to Use
 1. Copy the raw link below:  
    https://raw.githubusercontent.com/aoyn1xw/my-app-repo/refs/heads/main/app-repo.json  
-2. Open your preferred signer app (e.g., Scarlet, TrollStore, AltStore).  
+2. Open your preferred signer app (e.g., Scarlet, Esign, Feather, etc...).  
 3. Paste the link into the signer to add the repository.  
 
 ## Requirements
