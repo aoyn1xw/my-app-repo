@@ -59,7 +59,7 @@
     },
     {
       "name": "Youtube Music",
-      "bundleIdentifier": "com.google.iod.youtubemusic",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
       "subtitle": "Youtube Music",
       "descrpition": "Youtube Music tweak",
