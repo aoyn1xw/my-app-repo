@@ -56,6 +56,13 @@
           "size": "73.01 MB"
         }
       ]
-    }
+    },
+    {
+      "name": "Youtube Music",
+      "bundleIdentifier": "com.google.iod.youtubemusic",
+      "developerName": "Google",
+      "subtiltel": "Youtube Music",
+      "descrpition": "Youtube Music tweak",
+      "iconURL":
   ]
 }
