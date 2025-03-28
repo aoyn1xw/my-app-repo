@@ -63,6 +63,20 @@
       "developerName": "Google",
       "subtiltel": "Youtube Music",
       "descrpition": "Youtube Music tweak",
-      "iconURL":
-  ]
-}
+      "iconURL": "https://files.catbox.moe/zvdvne.png",
+      "tintColor": "#2596be",
+      "version": "8.06.2",
+      "versionDate": "28.03.2025",
+      "downloadURL": "https://files.catbox.moe/z9wyma.ipa",
+      "size": "76.42 MB",
+      "titel": "Youtube music",
+      "versions": [
+        {
+          "version": "8.06.2",
+          "date": "28.03.2025",
+          "downloadURL": "https://files.catbox.moe/z9wyma.ipa",
+          "size": "76.42 MB"
+        }
+      ]
+    }
+    
