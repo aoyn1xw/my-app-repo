@@ -31,7 +31,7 @@
           "version": "5.9-9.0.28",
           "date": "2025-03-24",
           "downloadURL": "https://www.mediafire.com/file/9i0wf545qm38yi8/EeveeSpotify-5.9-9.0.28.ipa/file",
-          "size": "80.6 MiB"
+          "size": "80.6 MB"
         }
       ]
     },
@@ -62,18 +62,18 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
       "subtitle": "Youtube Music",
-      "descrpition": "Youtube Music tweak",
+      "description": "Youtube Music tweak",
       "iconURL": "https://files.catbox.moe/zvdvne.png",
       "tintColor": "#2596be",
       "version": "8.06.2",
-      "versionDate": "28-03-2025",
+      "versionDate": "2025-03-28",
       "downloadURL": "https://files.catbox.moe/z9wyma.ipa",
       "size": "76.42 MB",
-      "titel": "Youtube music",
+      "title": "Youtube music",
       "versions": [
         {
           "version": "8.06.2",
-          "date": "28-03-2025",
+          "date": "2025-03-28",
           "downloadURL": "https://files.catbox.moe/z9wyma.ipa",
           "size": "76.42 MB"
         }
